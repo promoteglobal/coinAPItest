@@ -1,0 +1,21 @@
+// During testing, I reached my max testing limit of 100 calls till the next day.  Incase I need fake data for testing, I'm going to save this file.
+[
+  {
+    "symbol_id": "GDAC_SPOT_XRP_KRW",
+    "time_exchange": "2021-09-04T07:35:08.0000000Z",
+    "time_coinapi": "2021-09-04T07:34:18.5243234Z",
+    "uuid": "df343e87-bdd7-4aa7-9047-b5e7382f849a",
+    "price": 1519.00000000,
+    "size": 3470.00000000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_BTC_KRW",
+    "time_exchange": "2021-09-04T07:35:06.0000000Z",
+    "time_coinapi": "2021-09-04T07:34:18.7116119Z",
+    "uuid": "c5f49c12-6db0-44bf-bd91-a1acea461aed",
+    "price": 58164000.00000000,
+    "size": 0.18498000,
+    "taker_side": "BUY"
+  }
+]
