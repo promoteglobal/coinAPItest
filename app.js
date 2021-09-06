@@ -13,7 +13,7 @@ const options = {
 
 //rewind to here for saftey
 //functions to use
-const secondePromisefunction = (body2) => {
+const createUpdateFullList = (body2) => {
   return new Promise ((resolve, reject) => {
   // Update the coinAPITransactionList file with latest info.  If no file exists, create a new file
   const path = './.data/allTransactions/coinAPITransactionList.json';
@@ -51,7 +51,7 @@ const secondePromisefunction = (body2) => {
 };
  
 
-const thirdePromisefunction = (body3) => {
+const calculateAvg = (body3) => {
   return new Promise ((resolve, reject) => { 
         //grab data from coinAPITransactionList so I can calculate avgs
         _data.read('allTransactions', 'coinAPITransactionList', function(err, objData) {
@@ -106,7 +106,7 @@ const thirdePromisefunction = (body3) => {
 
 };
 
-const forthPromisefunction = (stringifiedavgObj) => {
+const createUpdateAvgFile = (stringifiedavgObj) => {
   return new Promise ((resolve, reject) => { 
     //insert updated avgs into seperate json file. If no file, create one.
     const isolatedDataPath = './.data/isolatedData/avgPriceSize.json';
@@ -152,13 +152,13 @@ https.get(options, function(res) {
       });
     };
     starterfunction().then((body) => {
-      return secondePromisefunction(body);
+      return createUpdateFullList(body);
     })
     .then((body) => {
-      return thirdePromisefunction(body);
+      return calculateAvg(body);
     })
     .then((avgObj) => {
-      return forthPromisefunction(avgObj);
+      return createUpdateAvgFile(avgObj);
     })
     .catch((rejectionReason) => {
       console.log(rejectionReason);
