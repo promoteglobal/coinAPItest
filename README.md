@@ -18,6 +18,4 @@ I had never tried to hook up to an foreign API before.  My guidience was the one
 was a learning experience for me.
 
 ### Things I hope for future:  
-I'm sure there are better ways of writing my code.  I would love for someone to give me feedback on how to refactor this code, but this is my first offical backend project. 
-It happens to be for a test.  It may not be the best code, but hopefully I show off my skills that I can complete a project with such little knowledge to begin with. 
-Learning how to write better code comes with practice and exposure.  My front end skills are little better polished.
+Since I have had limited exposure,I hope I can show off my skills that I can learn in a short amount of time. Learning how to write better code comes with practice and exposure. 
