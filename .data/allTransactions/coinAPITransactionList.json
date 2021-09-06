@@ -1,902 +1,902 @@
 [
   {
     "symbol_id": "GDAC_SPOT_PER_KRW",
-    "time_exchange": "2021-09-04T12:12:47.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:57.1070995Z",
-    "uuid": "e79a7b42-7d14-487b-9146-6ea393099cf6",
-    "price": 419.50000000,
-    "size": 161.44580000,
+    "time_exchange": "2021-09-06T20:10:15.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:32.5621886Z",
+    "uuid": "e3c6c2ce-13d3-4be0-add3-1277c15a2eec",
+    "price": 375.50000000,
+    "size": 148.50580000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_BTC_KRW",
+    "time_exchange": "2021-09-06T20:10:14.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:26.5551553Z",
+    "uuid": "3722ec3d-d0fd-412d-b4e7-923143dddd48",
+    "price": 59735000.00000000,
+    "size": 0.17652000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_BOX_KRW",
+    "time_exchange": "2021-09-06T20:10:08.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:16.4128704Z",
+    "uuid": "ee1f599f-b275-43bd-beea-5cd566df9350",
+    "price": 75.90000000,
+    "size": 31.07262184,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_BTC_KRW",
+    "time_exchange": "2021-09-06T20:10:05.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:26.5551553Z",
+    "uuid": "37f15265-57fc-4b05-95d7-2430bcb01fc3",
+    "price": 59708000.00000000,
+    "size": 0.17652000,
     "taker_side": "SELL"
   },
   {
     "symbol_id": "GDAC_SPOT_ETH_KRW",
-    "time_exchange": "2021-09-04T12:12:46.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:54.8208331Z",
-    "uuid": "a108a9ba-4188-4de6-9b14-6f22768622a2",
-    "price": 4524000.00000000,
-    "size": 0.25829999,
+    "time_exchange": "2021-09-06T20:10:02.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:20.2731389Z",
+    "uuid": "a9120bea-2c1d-4148-8281-9dbf29fbda8f",
+    "price": 4521000.00000000,
+    "size": 0.02610000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_PER_KRW",
+    "time_exchange": "2021-09-06T20:10:00.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:19.6751025Z",
+    "uuid": "62b47cf1-b432-4fcd-b3e8-bcc968cf7064",
+    "price": 373.20000000,
+    "size": 130.90420000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_BTC_KRW",
+    "time_exchange": "2021-09-06T20:09:56.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:26.5551553Z",
+    "uuid": "998f790f-1a93-46a8-9f09-3bb12628f5e1",
+    "price": 59752000.00000000,
+    "size": 0.17652000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_KSP_KRW",
+    "time_exchange": "2021-09-06T20:09:49.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:20.3983990Z",
+    "uuid": "d89534a4-7134-44ab-9d41-6b7324f05fe8",
+    "price": 36430.00000000,
+    "size": 131.75999999,
     "taker_side": "BUY"
   },
   {
     "symbol_id": "GDAC_SPOT_USDT_KRW",
-    "time_exchange": "2021-09-04T12:12:41.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:54.6602993Z",
-    "uuid": "cad29fad-8a1c-4fe7-a91d-5d551f8b8cd9",
-    "price": 1185.00000000,
-    "size": 6428.00000000,
+    "time_exchange": "2021-09-06T20:09:49.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:03.9634200Z",
+    "uuid": "2988571a-e94a-4935-80f8-34714dfba49e",
+    "price": 1157.00000000,
+    "size": 7726.00000000,
     "taker_side": "BUY"
   },
   {
-    "symbol_id": "GDAC_SPOT_BOX_KRW",
-    "time_exchange": "2021-09-04T12:12:36.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:45.8070998Z",
-    "uuid": "96561b8b-bb93-40e3-961c-24678e7a2da8",
-    "price": 74.50000000,
-    "size": 22.46104131,
-    "taker_side": "BUY"
+    "symbol_id": "GDAC_SPOT_KLAY_KRW",
+    "time_exchange": "2021-09-06T20:09:47.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:01.3619683Z",
+    "uuid": "2c25357c-fd79-415b-b688-b920e9908d03",
+    "price": 1854.00000000,
+    "size": 803.00000000,
+    "taker_side": "SELL"
   },
   {
-    "symbol_id": "GDAC_SPOT_PER_KRW",
-    "time_exchange": "2021-09-04T12:12:32.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:40.1923821Z",
-    "uuid": "14551371-8d84-499a-b0f9-e452f446e6c8",
-    "price": 413.20000000,
-    "size": 123.34390000,
+    "symbol_id": "GDAC_SPOT_BTC_KRW",
+    "time_exchange": "2021-09-06T20:09:45.0000000Z",
+    "time_coinapi": "2021-09-06T20:08:56.4410223Z",
+    "uuid": "ac0daef3-96d3-443e-bebc-9625749e661b",
+    "price": 59787000.00000000,
+    "size": 0.17652000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "GDAC_SPOT_XRP_KRW",
+    "time_exchange": "2021-09-06T20:09:44.0000000Z",
+    "time_coinapi": "2021-09-06T20:09:01.1530859Z",
+    "uuid": "430276fb-1bb7-4605-8964-48f617813762",
+    "price": 1596.00000000,
+    "size": 2110.00000000,
     "taker_side": "SELL"
   },
   {
     "symbol_id": "GDAC_SPOT_BOX_KRW",
-    "time_exchange": "2021-09-04T12:12:22.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:33.3137968Z",
-    "uuid": "1dc0de60-5ce9-4549-bd7f-78f85cc3102a",
-    "price": 74.50000000,
-    "size": 47.32927695,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "GDAC_SPOT_ATOM_KRW",
-    "time_exchange": "2021-09-04T12:12:20.0000000Z",
-    "time_coinapi": "2021-09-04T12:12:03.4711408Z",
-    "uuid": "cd59b78c-27d7-47d9-b173-7a5248be9710",
-    "price": 28580.00000000,
-    "size": 104.70000000,
+    "time_exchange": "2021-09-06T20:09:41.0000000Z",
+    "time_coinapi": "2021-09-06T20:08:55.1777186Z",
+    "uuid": "1da88fa7-2408-40a3-94ce-fe215469f9ba",
+    "price": 75.90000000,
+    "size": 39.72795559,
     "taker_side": "BUY"
   },
   {
-    "symbol_id": "GDAC_SPOT_PER_KRW",
-    "time_exchange": "2021-09-04T12:12:17.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:28.2485959Z",
-    "uuid": "a11df2ee-0419-424a-bee3-038f042166fa",
-    "price": 412.10000000,
-    "size": 103.21710000,
+    "symbol_id": "FTX_PERP_LUNA_USD",
+    "time_exchange": "2021-09-06T20:09:37.8597560Z",
+    "time_coinapi": "2021-09-06T20:09:37.9960826Z",
+    "uuid": "b6e113c0-1827-4e85-9229-9894dff2f8ac",
+    "price": 32.124,
+    "size": 9.2,
     "taker_side": "BUY"
   },
   {
-    "symbol_id": "GDAC_SPOT_KSP_KRW",
-    "time_exchange": "2021-09-04T12:12:16.0000000Z",
-    "time_coinapi": "2021-09-04T12:11:23.7581693Z",
-    "uuid": "c19e81aa-b3ba-4c57-8352-5eb6f7088f66",
-    "price": 32930.00000000,
-    "size": 94.40000000,
+    "symbol_id": "FTX_PERP_LUNA_USD",
+    "time_exchange": "2021-09-06T20:09:37.8597560Z",
+    "time_coinapi": "2021-09-06T20:09:37.9960826Z",
+    "uuid": "20ac78bb-5cea-4e29-aae9-177e9311d8c5",
+    "price": 32.124,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "FTX_PERP_LUNA_USD",
+    "time_exchange": "2021-09-06T20:09:37.8597560Z",
+    "time_coinapi": "2021-09-06T20:09:37.9960826Z",
+    "uuid": "efa9e481-6306-4946-9cf0-19d968fe501d",
+    "price": 32.134,
+    "size": 4.7,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "FTX_SPOT_LTC_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8479010Z",
+    "time_coinapi": "2021-09-06T20:09:37.9976086Z",
+    "uuid": "a2125a14-561b-4600-8d7b-13b725a3db69",
+    "price": 220.025,
+    "size": 1.63,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "BITFINEX_SPOT_XDC_USD",
-    "time_exchange": "2021-09-04T12:12:09.5400000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5817590Z",
-    "uuid": "9f8b185b-5290-4ac0-8123-30c711a09e7e",
-    "price": 0.14565,
-    "size": 563.36972,
+    "symbol_id": "HUOBIFTS_PERP_DOGE_USD",
+    "time_exchange": "2021-09-06T20:09:37.8440000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9936244Z",
+    "uuid": "132922c8-65a5-49cc-94d4-0e4765e0aea9",
+    "price": 0.306343,
+    "size": 2,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "BYBIT_PERP_AXS_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4870000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6135381Z",
-    "uuid": "0ae45e4a-0b7a-4946-8898-45b07a574f7a",
-    "price": 89.745,
+    "symbol_id": "FTX_PERP_TRU_USD",
+    "time_exchange": "2021-09-06T20:09:37.8394350Z",
+    "time_coinapi": "2021-09-06T20:09:38.0036722Z",
+    "uuid": "a9e6076b-1476-4295-a707-ae678556bc5b",
+    "price": 0.639125,
+    "size": 200,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_TRU_USD",
+    "time_exchange": "2021-09-06T20:09:37.8390150Z",
+    "time_coinapi": "2021-09-06T20:09:38.0036722Z",
+    "uuid": "341920fe-9f32-44af-aaa7-891af057d6c3",
+    "price": 0.639125,
+    "size": 200,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_CRV_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8390000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9826370Z",
+    "uuid": "710cb315-e848-4d55-9a21-e2492510850f",
+    "price": 2.4772,
+    "size": 160,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USD",
+    "time_exchange": "2021-09-06T20:09:37.8370000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9869780Z",
+    "uuid": "04002544-9072-432f-ac8a-024297edaab1",
+    "price": 1.38669,
+    "size": 4,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_FTT_USD",
+    "time_exchange": "2021-09-06T20:09:37.8330780Z",
+    "time_coinapi": "2021-09-06T20:09:37.9896527Z",
+    "uuid": "514bbce4-6ede-429d-9acd-90fb7435061a",
+    "price": 75.866,
+    "size": 30,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_ETH_USD",
+    "time_exchange": "2021-09-06T20:09:37.8321220Z",
+    "time_coinapi": "2021-09-06T20:09:37.9738160Z",
+    "uuid": "aedeeab2-787f-4e49-8973-f5f700fd7740",
+    "price": 3940.9,
+    "size": 0.702,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_ETH_USD",
+    "time_exchange": "2021-09-06T20:09:37.8321220Z",
+    "time_coinapi": "2021-09-06T20:09:37.9738160Z",
+    "uuid": "6137c841-dd59-45a3-9686-85934a535369",
+    "price": 3940.9,
+    "size": 0.254,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_ETH_USD",
+    "time_exchange": "2021-09-06T20:09:37.8321220Z",
+    "time_coinapi": "2021-09-06T20:09:37.9738160Z",
+    "uuid": "1e25af1d-d090-48d0-bc28-aec70b730104",
+    "price": 3940.9,
+    "size": 0.24,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_DOGE_USD",
+    "time_exchange": "2021-09-06T20:09:37.8266270Z",
+    "time_coinapi": "2021-09-06T20:09:37.9867062Z",
+    "uuid": "649126ce-bc79-4aec-9e5d-1742c7c20035",
+    "price": 0.306185,
+    "size": 12,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "1ca9ba07-ba60-4de6-8c97-6632c69e4a4e",
+    "price": 1.38573,
+    "size": 22,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "ee98defe-0a38-46ff-8567-aa0b8c99cfcc",
+    "price": 1.38573,
+    "size": 60,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "49795a54-3cf6-4f5d-a3c7-9b4273446279",
+    "price": 1.38573,
+    "size": 386,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "cc4bf858-12e8-4237-8b4a-5e6f7561d34a",
+    "price": 1.38573,
+    "size": 84,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "9b495d5a-9524-4278-a3a4-c9e7c2c86b5e",
+    "price": 1.38573,
+    "size": 14,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922832Z",
+    "uuid": "5a03212e-3fb4-4409-a57b-982216068be5",
+    "price": 1.38573,
+    "size": 54,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922754Z",
+    "uuid": "a7d5e002-2a9e-4136-b574-bf28f7bb335b",
+    "price": 1.38573,
+    "size": 138,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922754Z",
+    "uuid": "a986cb82-643a-404f-b44b-8b486f39d351",
+    "price": 1.38573,
+    "size": 52,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922754Z",
+    "uuid": "b89860da-b459-4056-bea9-81f2518c45c9",
+    "price": 1.38573,
+    "size": 6,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922754Z",
+    "uuid": "1ed245cf-2f65-4afc-8bf0-54adbbc611ec",
+    "price": 1.38573,
+    "size": 556,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9922754Z",
+    "uuid": "dc55fcce-d310-41db-9364-bec361a63366",
+    "price": 1.38573,
+    "size": 30,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_LINK_USD",
+    "time_exchange": "2021-09-06T20:09:37.8230000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9916506Z",
+    "uuid": "a3ca0abd-d4e9-4311-b609-c9ee4a514c38",
+    "price": 35.1714,
+    "size": 8,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_LINK_USD",
+    "time_exchange": "2021-09-06T20:09:37.8230000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9916506Z",
+    "uuid": "8173fed3-a2e5-4437-9ec6-e8d2168be08c",
+    "price": 35.1714,
+    "size": 12,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_TRX_USD",
+    "time_exchange": "2021-09-06T20:09:37.8192920Z",
+    "time_coinapi": "2021-09-06T20:09:37.9824493Z",
+    "uuid": "34cbca4b-5ff7-4ced-9695-dc94b3fae2be",
+    "price": 0.1031275,
+    "size": 97,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_ETC_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8170000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9782481Z",
+    "uuid": "1d1a3d30-0955-4c60-9b24-fb6d03f85d84",
+    "price": 73.4847,
+    "size": 2,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_ETC_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8170000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9782481Z",
+    "uuid": "504467db-38fa-4235-8cf5-cc17866d02b0",
+    "price": 73.4846,
+    "size": 28,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8110000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9803280Z",
+    "uuid": "56ba47f9-c4f9-462f-88ef-1bb80d3c592c",
+    "price": 1.38573,
+    "size": 4,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8110000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9803280Z",
+    "uuid": "27ed2309-05bd-4c04-8753-40e878baf824",
+    "price": 1.38573,
+    "size": 6,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8110000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9803280Z",
+    "uuid": "e2e22df9-1ad7-4998-9fea-5b8dbfb0a745",
+    "price": 1.38573,
+    "size": 46,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.8110000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9803280Z",
+    "uuid": "e375fdf4-e25f-4ae5-b5f1-017836d1e219",
+    "price": 1.38573,
+    "size": 144,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_SPOT_FTM_USD",
+    "time_exchange": "2021-09-06T20:09:37.8063450Z",
+    "time_coinapi": "2021-09-06T20:09:37.9572976Z",
+    "uuid": "d16c02e1-dcb7-45f0-8b39-39b4bd2384b6",
+    "price": 1.4495,
+    "size": 15,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_THETA_USD",
+    "time_exchange": "2021-09-06T20:09:37.8060000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9797177Z",
+    "uuid": "adb715f1-e52a-42d7-abac-416b2317b1c9",
+    "price": 8.9343,
+    "size": 12,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "75c3cc10-e72d-41f5-a74a-eb1eb6d5950d",
+    "price": 3973.468,
+    "size": 2,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "d651b552-fa76-4ec5-9034-49fdcaa7bab2",
+    "price": 3973.338,
+    "size": 4,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "11d206c6-439a-4fb9-b823-b9850e07bf72",
+    "price": 3973.338,
+    "size": 6,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "c7526870-6298-481f-8e87-391a2570eb0a",
+    "price": 3973.338,
+    "size": 6,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "857b18e9-cd55-4e59-a19e-04d1c26b8200",
+    "price": 3973.338,
+    "size": 2,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "3859a3c0-afe7-4ce6-99c5-540f98c507f9",
+    "price": 3973.338,
+    "size": 4,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7890000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592994Z",
+    "uuid": "d202b9b2-2d3a-4008-8929-e9a500d239c1",
+    "price": 3973.337,
+    "size": 2000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_BTC_USD_210917",
+    "time_exchange": "2021-09-06T20:09:37.7850000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9540476Z",
+    "uuid": "fb520c97-6044-46c3-97d6-1bc9013edd73",
+    "price": 51968.05,
+    "size": 22,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_LINK_USD",
+    "time_exchange": "2021-09-06T20:09:37.7786110Z",
+    "time_coinapi": "2021-09-06T20:09:37.9140088Z",
+    "uuid": "1ea6d496-c7b9-42bb-b509-a8e48c652843",
+    "price": 35.1505,
+    "size": 15,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_LINK_USD",
+    "time_exchange": "2021-09-06T20:09:37.7783460Z",
+    "time_coinapi": "2021-09-06T20:09:37.9140088Z",
+    "uuid": "8224ed87-7e63-41ff-bb80-3efdc95a042c",
+    "price": 35.1505,
+    "size": 5.5,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_MATIC_USD",
+    "time_exchange": "2021-09-06T20:09:37.7771990Z",
+    "time_coinapi": "2021-09-06T20:09:37.9164105Z",
+    "uuid": "1bf0d01a-5b8a-4184-8070-4f86c00b07ed",
+    "price": 1.6366725,
+    "size": 31,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETC_USD_210917",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9592883Z",
+    "uuid": "15e4506b-12a5-42a6-a1dd-7aba9d67720c",
+    "price": 73.992,
+    "size": 320,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9231994Z",
+    "uuid": "400631d7-651e-48c5-bfea-1e5afb152b2b",
+    "price": 3973.66,
+    "size": 2,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9231994Z",
+    "uuid": "7cfc9998-b3c7-4803-ba6e-54a503d0e672",
+    "price": 3973.53,
+    "size": 40,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9231994Z",
+    "uuid": "77dd3e73-0488-4ccb-9dcb-5dae269ba27a",
+    "price": 3973.468,
+    "size": 106,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XLM_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9160112Z",
+    "uuid": "8bf7d761-39d4-4660-a4de-bacf3d48e353",
+    "price": 0.428148,
+    "size": 92,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_XLM_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7750000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9160112Z",
+    "uuid": "d2d379c9-61ed-4e83-ac67-3ff9e53cf4fa",
+    "price": 0.428148,
+    "size": 14,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_LTC_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7740000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9565090Z",
+    "uuid": "43f4894d-4e70-4447-824d-a0d33f107ba5",
+    "price": 220.3,
+    "size": 24,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_BCH_USD_210917",
+    "time_exchange": "2021-09-06T20:09:37.7730000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9541284Z",
+    "uuid": "4afb182e-19e5-4fc4-b45b-c285d7f3dcf3",
+    "price": 791.392,
+    "size": 480,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_BTC_USD",
+    "time_exchange": "2021-09-06T20:09:37.7720970Z",
+    "time_coinapi": "2021-09-06T20:09:37.8396581Z",
+    "uuid": "8a23ebce-0718-461c-83f8-067c70da283f",
+    "price": 51695.97,
+    "size": 0.0832,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_FTM_USD",
+    "time_exchange": "2021-09-06T20:09:37.7699590Z",
+    "time_coinapi": "2021-09-06T20:09:37.9212344Z",
+    "uuid": "c9edb719-c74d-4d63-aa38-de3f374b5e37",
+    "price": 1.4518,
+    "size": 6,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_XRP_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7690000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9540078Z",
+    "uuid": "202f73b4-c515-4ac0-9861-b9fb852eca8b",
+    "price": 1.3942,
+    "size": 8,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_GRT_USD",
+    "time_exchange": "2021-09-06T20:09:37.7687850Z",
+    "time_coinapi": "2021-09-06T20:09:37.8338447Z",
+    "uuid": "76ccafb1-0035-44fc-8bf6-29fae2bfb84f",
+    "price": 1.0545,
+    "size": 604.45,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "HUOBIFTS_PERP_ETC_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7660000Z",
+    "time_coinapi": "2021-09-06T20:09:37.9156616Z",
+    "uuid": "6c068b51-4ee5-4071-9bbd-79439f0352c1",
+    "price": 73.4991,
+    "size": 2,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "FTX_PERP_PUNDIX_USD",
+    "time_exchange": "2021-09-06T20:09:37.7557180Z",
+    "time_coinapi": "2021-09-06T20:09:37.9140756Z",
+    "uuid": "201a0be4-f061-4189-a712-a860b3e5a931",
+    "price": 2.113,
+    "size": 0.1,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7470000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8900990Z",
+    "uuid": "cc8fd1a6-0c82-4d67-8df2-ed35bf53fed8",
+    "price": 1.38490000,
+    "size": 28.00000000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XRP_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7470000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8900299Z",
+    "uuid": "665f7eaa-88c9-48ac-91f2-968b69e78218",
+    "price": 1.38490000,
+    "size": 372.00000000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BEQUANT_SPOT_LTC_BTC",
+    "time_exchange": "2021-09-06T20:09:37.7440000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8444328Z",
+    "uuid": "77338a9f-fe03-49c8-af40-70deda7338fa",
+    "price": 0.0042566,
+    "size": 6.240,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7420000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8838576Z",
+    "uuid": "8083e205-2dc8-4e7e-be3a-0ea5866f477a",
+    "price": 3973.707,
+    "size": 142,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7420000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8838576Z",
+    "uuid": "f5fb5fa2-77b6-4610-88a6-67ed38146ea0",
+    "price": 3973.707,
+    "size": 14,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7420000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8838576Z",
+    "uuid": "6f939412-16d9-4aae-9060-26ff1992b4f4",
+    "price": 3973.707,
+    "size": 40,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIFTS_FTS_ETH_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7420000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8838576Z",
+    "uuid": "82ee3769-7042-4c26-a530-617595e53638",
+    "price": 3973.66,
+    "size": 102,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_GRT_USD",
+    "time_exchange": "2021-09-06T20:09:37.7419920Z",
+    "time_coinapi": "2021-09-06T20:09:37.8058863Z",
+    "uuid": "32d3d308-05e9-459f-938b-bfb074d26e87",
+    "price": 1.0545,
+    "size": 184.06,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_UNI_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7350000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8782029Z",
+    "uuid": "76b92f21-cef3-4776-a060-26b2eaec642e",
+    "price": 29.42000000,
+    "size": 0.46000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_FUN_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7320000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8723040Z",
+    "uuid": "58c791d3-e442-4cc5-96ad-61f5a5cc2325",
+    "price": 0.02937000,
+    "size": 2979.00000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "FTX_PERP_CHR_USD",
+    "time_exchange": "2021-09-06T20:09:37.7315470Z",
+    "time_coinapi": "2021-09-06T20:09:37.8683410Z",
+    "uuid": "2a37325f-eb0e-4d40-b80a-f109d13303ad",
+    "price": 0.4304,
     "size": 1,
     "taker_side": "BUY"
   },
   {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5902338Z",
-    "uuid": "23bb9b2c-e807-4a4c-bcf3-787ce822f277",
-    "price": 0.0000057403,
-    "size": 61544371,
+    "symbol_id": "FTX_SPOT_BTC_USD",
+    "time_exchange": "2021-09-06T20:09:37.7286900Z",
+    "time_coinapi": "2021-09-06T20:09:37.8842057Z",
+    "uuid": "39788e92-0ab9-4616-9207-f263a505245f",
+    "price": 51702,
+    "size": 0.0001,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5902338Z",
-    "uuid": "aab017fa-5dcf-4152-8ee6-1b010ab32b1d",
-    "price": 0.0000057404,
-    "size": 11388683,
+    "symbol_id": "BINANCE_SPOT_DOGE_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7260000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8868914Z",
+    "uuid": "74f583e5-1d07-4385-81a9-39191295b779",
+    "price": 0.30580000,
+    "size": 642.00000000,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5902338Z",
-    "uuid": "9ec8757e-521c-4d4f-977f-ee4a745d7b82",
-    "price": 0.0000057407,
-    "size": 3146909,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5902338Z",
-    "uuid": "07cff264-9d30-4390-a7dc-7350a7cf63b0",
-    "price": 0.0000057412,
-    "size": 22777365,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6343959Z",
-    "uuid": "dee21851-83f8-444d-8750-31f2c5967acc",
-    "price": 0.0000057403,
-    "size": 61544371,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6343959Z",
-    "uuid": "89322e0b-e799-47d1-9288-44fc30f15aec",
-    "price": 0.0000057404,
-    "size": 11388683,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6343959Z",
-    "uuid": "084d6790-f40d-42cd-b157-9e297dff5648",
-    "price": 0.0000057407,
-    "size": 3146909,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4630000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6343959Z",
-    "uuid": "59055ec4-8d09-4d9d-9120-3117561ba2b5",
-    "price": 0.0000057412,
-    "size": 22777365,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5871962Z",
-    "uuid": "43db2393-cda2-4775-81b2-99607d0e278c",
-    "price": 0.0000057403,
-    "size": 34423097,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5871962Z",
-    "uuid": "6a5cb161-e52c-4683-87d4-c73d3f7da888",
-    "price": 0.0000057403,
-    "size": 2974483,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5871962Z",
-    "uuid": "1a9dea9a-a2e2-45da-8161-1089b0b6b284",
-    "price": 0.0000057407,
-    "size": 5094864,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5871962Z",
-    "uuid": "61d7bc5a-4b50-4bb0-ab04-7edd2c1ddc06",
-    "price": 0.000005741,
-    "size": 2547432,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5871962Z",
-    "uuid": "f486add1-7d3a-4693-9be2-be82c5594394",
-    "price": 0.0000057411,
-    "size": 35365002,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6303785Z",
-    "uuid": "a0df145c-a3d3-44f8-a1ce-14fa94d96b36",
-    "price": 0.0000057403,
-    "size": 34423097,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6303785Z",
-    "uuid": "51d00c60-0a4a-4021-8715-4ee3ec491bf5",
-    "price": 0.0000057403,
-    "size": 2974483,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6303785Z",
-    "uuid": "8fde1372-18b5-4ca0-9818-182f7b0926ad",
-    "price": 0.0000057407,
-    "size": 5094864,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6303785Z",
-    "uuid": "45ea2ea2-9e9f-4b3b-b12e-2c6c17079a60",
-    "price": 0.000005741,
-    "size": 2547432,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4600000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6303785Z",
-    "uuid": "423beeff-44fa-448b-bd95-c40ddd803ffd",
-    "price": 0.0000057411,
-    "size": 35365002,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4540000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5820401Z",
-    "uuid": "ef63d66c-beff-4fb9-886d-4ac399a43834",
-    "price": 0.0000057403,
-    "size": 36420098,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4540000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6252520Z",
-    "uuid": "a798990f-fe42-44a2-85ed-8cbd02cdbe43",
-    "price": 0.0000057403,
-    "size": 36420098,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4530000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5819869Z",
-    "uuid": "3826d895-1a2f-4ad5-9ce0-eb70630fc69b",
-    "price": 0.0000057403,
-    "size": 61318609,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4530000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6249961Z",
-    "uuid": "f2a43fc9-ca61-44fa-8d6e-de6a51b16321",
-    "price": 0.0000057403,
-    "size": 61318609,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4520000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5814197Z",
-    "uuid": "90421560-9f09-4334-9831-1f2f1e5b583c",
-    "price": 0.0000057403,
-    "size": 260456971,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4520000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6249911Z",
-    "uuid": "8d312674-1d64-4f00-9be4-b934b48d6571",
-    "price": 0.0000057403,
-    "size": 260456971,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_SOL_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4510000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5810928Z",
-    "uuid": "0302b898-b6fe-49b8-972b-d91086932d15",
-    "price": 142.8071,
-    "size": 1.41,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4500000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5785767Z",
-    "uuid": "1f379968-fa15-4d86-b5a6-9b1b34c87382",
-    "price": 0.0000057403,
-    "size": 91220100,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4500000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5785767Z",
-    "uuid": "897ae0db-4e30-4428-afa3-3c5288e47a5e",
-    "price": 0.0000057411,
-    "size": 10189729,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4500000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6243017Z",
-    "uuid": "cec34c93-4345-4ce0-8615-5cc9f563e6b4",
-    "price": 0.0000057403,
-    "size": 91220100,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4500000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6243017Z",
-    "uuid": "5b3b3288-3bcc-4343-9131-06958b2f56af",
-    "price": 0.0000057411,
-    "size": 10189729,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_SHIB_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5802635Z",
-    "uuid": "87a898e3-41a5-4797-9738-35d8f95793c1",
-    "price": 0.00000711,
-    "size": 110393294.47,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_SHIB_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6066910Z",
-    "uuid": "189f9f28-a39e-4d2d-82f9-aa9af3967df6",
-    "price": 0.00000711,
-    "size": 110393294.47,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4420000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5710445Z",
-    "uuid": "31fc7f3e-7d58-46dd-81f1-07045c008f28",
-    "price": 0.0000057406,
-    "size": 7505312,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4420000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5710445Z",
-    "uuid": "bf02c1ca-d883-4e17-b3e8-354a8edaa827",
-    "price": 0.000005741,
-    "size": 26767047,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4420000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6148765Z",
-    "uuid": "56ad66a7-849f-4a87-9a61-ad58795cdde8",
-    "price": 0.0000057406,
-    "size": 7505312,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4420000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6148765Z",
-    "uuid": "f91447a2-9151-45ea-97d9-190bf8df3d15",
-    "price": 0.000005741,
-    "size": 26767047,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4410000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5680004Z",
-    "uuid": "c1b248de-f0a6-4f4a-a2e0-1443be3c74c1",
-    "price": 0.000005741,
-    "size": 22711435,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4410000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6139222Z",
-    "uuid": "88358744-4d9b-43d3-99de-24b1b7011a73",
-    "price": 0.000005741,
-    "size": 22711435,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "BITSTAMP_SPOT_XRP_USD",
-    "time_exchange": "2021-09-04T12:12:09.4340000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4724936Z",
-    "uuid": "bac2a754-1aa0-4949-880e-0931821abd22",
-    "price": 1.27348,
-    "size": 25,
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876432Z",
+    "uuid": "cf0e2465-b4f3-4813-9497-3f3c3b907753",
+    "price": 0.00028722,
+    "size": 157879.00,
     "taker_side": "BUY"
   },
   {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4310000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5593832Z",
-    "uuid": "f848494a-d2b5-47d6-bb95-ecaafe39955d",
-    "price": 0.0000057409,
-    "size": 27777778,
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876391Z",
+    "uuid": "25f5fb78-62c1-47e8-b050-6a38325401bc",
+    "price": 0.00028722,
+    "size": 696512.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876355Z",
+    "uuid": "7f7e1867-06b8-4187-ba29-ce110333b27e",
+    "price": 0.00028722,
+    "size": 696512.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876315Z",
+    "uuid": "7c96d708-4d58-447a-a6c6-9ddd512daef8",
+    "price": 0.00028721,
+    "size": 696609.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876207Z",
+    "uuid": "c81b22fe-4f10-4391-b814-5ff2808d1e8a",
+    "price": 0.00028721,
+    "size": 658214.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8876151Z",
+    "uuid": "6393e627-e3bf-4418-bcac-b0a52c2ce433",
+    "price": 0.00028721,
+    "size": 1507188.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_XEC_BUSD",
+    "time_exchange": "2021-09-06T20:09:37.7250000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8875993Z",
+    "uuid": "137e1543-40a0-40d4-b1a7-63fee107d3fe",
+    "price": 0.00028720,
+    "size": 116889.00,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "FTX_FTS_UNISWAP_USD_210924",
+    "time_exchange": "2021-09-06T20:09:37.7240040Z",
+    "time_coinapi": "2021-09-06T20:09:37.8589642Z",
+    "uuid": "d2f85f7d-a599-492a-bb1a-ee1a06fa834a",
+    "price": 96225,
+    "size": 0.0007,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BEQUANT_SPOT_BAT_BTC",
+    "time_exchange": "2021-09-06T20:09:37.7200000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8558306Z",
+    "uuid": "c3d90890-9d62-4c9f-a664-7e08e5857b39",
+    "price": 0.000018487,
+    "size": 123.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_OGN_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7160000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8574413Z",
+    "uuid": "1b1f910c-c10c-4a13-b946-63b918edb789",
+    "price": 1.33530000,
+    "size": 8.00000000,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4310000Z",
-    "time_coinapi": "2021-09-04T12:12:09.6040395Z",
-    "uuid": "c2c58761-19bb-418d-ad51-5fcb7ef72fa0",
-    "price": 0.0000057409,
-    "size": 27777778,
+    "symbol_id": "COINBASE_SPOT_XLM_USD",
+    "time_exchange": "2021-09-06T20:09:37.7074720Z",
+    "time_coinapi": "2021-09-06T20:09:37.7695978Z",
+    "uuid": "10255ee6-9d9d-4498-97d2-14590917381f",
+    "price": 0.427408,
+    "size": 47,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "FTX_PERP_FTM_USD",
+    "time_exchange": "2021-09-06T20:09:37.7051710Z",
+    "time_coinapi": "2021-09-06T20:09:37.8635905Z",
+    "uuid": "5abdfbab-077b-47f4-b29c-1b43cbe4a5b2",
+    "price": 1.4513,
+    "size": 3,
     "taker_side": "SELL"
   },
   {
-    "symbol_id": "HUOBIIND_SPOT_DOT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4140000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5518836Z",
-    "uuid": "9b43a618-0d4e-4467-8537-917e4b0398fd",
-    "price": 33.2014,
-    "size": 0.01,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_DOT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4140000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5698977Z",
-    "uuid": "342b53c6-e693-41c2-82f3-d53db8d3c46a",
-    "price": 33.2014,
-    "size": 0.01,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_COMP_KRW",
-    "time_exchange": "2021-09-04T12:12:09.4100000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5697099Z",
-    "uuid": "e610dcb3-b086-46f3-8365-95a2f30545d5",
-    "price": 546900,
-    "size": 0.000058,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4030000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5296795Z",
-    "uuid": "fa45f5f3-f686-44df-a050-0871d18108bb",
-    "price": 0.0000057426,
-    "size": 51911850,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4030000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5317103Z",
-    "uuid": "180d0c00-649c-4e08-a395-215e03a1803b",
-    "price": 0.0000057426,
-    "size": 51911850,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.4030000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5759820Z",
-    "uuid": "66c8249d-1a0a-4219-963c-35e014912684",
-    "price": 0.0000057426,
-    "size": 51911850,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "FTX_PERP_MATIC_USD",
-    "time_exchange": "2021-09-04T12:12:09.3967650Z",
-    "time_coinapi": "2021-09-04T12:12:09.5469396Z",
-    "uuid": "83e4d2e3-668b-4158-b22a-5f10eef848b4",
-    "price": 1.6577625,
-    "size": 209,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "FTX_PERP_MATIC_USD",
-    "time_exchange": "2021-09-04T12:12:09.3967650Z",
-    "time_coinapi": "2021-09-04T12:12:09.5469396Z",
-    "uuid": "2a12243f-ab65-43fa-99f4-0838fa154509",
-    "price": 1.6577625,
-    "size": 5,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3930000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5296640Z",
-    "uuid": "44ee8456-a8c1-482d-85a7-a00a4019498a",
-    "price": 0.0000057425,
-    "size": 207647402,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3930000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5218970Z",
-    "uuid": "71bccf00-b05b-4b8c-99d5-836981e3cfc8",
-    "price": 0.0000057425,
-    "size": 207647402,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3930000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5645426Z",
-    "uuid": "db2e5e19-02ac-4513-b7ec-b484633d35ba",
-    "price": 0.0000057425,
-    "size": 207647402,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3810000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5100582Z",
-    "uuid": "d43956e0-43ef-4acc-aac2-3d5b69790ae5",
-    "price": 0.0000057424,
-    "size": 2723491,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3810000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5086542Z",
-    "uuid": "572f217a-39b2-4fd8-9476-91ad404c29f9",
-    "price": 0.0000057424,
-    "size": 2723491,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3810000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5561007Z",
-    "uuid": "ea2d2392-63d9-4806-99f3-e605cedac4bc",
-    "price": 0.0000057424,
-    "size": 2723491,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "FTX_PERP_LRC_USD",
-    "time_exchange": "2021-09-04T12:12:09.3736810Z",
-    "time_coinapi": "2021-09-04T12:12:09.5276306Z",
-    "uuid": "bd8ace22-c6ac-4f5a-b49c-a92aaacbf56c",
-    "price": 0.51675,
-    "size": 307,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_CHZ_KRW",
-    "time_exchange": "2021-09-04T12:12:09.3710000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5458277Z",
-    "uuid": "971b41f6-3053-44c7-a5e7-d0be63be554f",
-    "price": 499,
-    "size": 0.049519,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4977982Z",
-    "uuid": "9ed5be83-3dd5-41d6-9d9d-87271ce0611b",
-    "price": 0.0000057469,
-    "size": 136876925,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4977982Z",
-    "uuid": "e512c3bc-477e-4403-a360-c1b7481aeda3",
-    "price": 0.0000057469,
-    "size": 145601694,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4972037Z",
-    "uuid": "abf0976c-e9e6-435c-ba89-c1dfaeae628a",
-    "price": 0.0000057469,
-    "size": 136876925,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4972037Z",
-    "uuid": "117f29ad-e096-4813-bed9-033ff0397a7c",
-    "price": 0.0000057469,
-    "size": 145601694,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5439954Z",
-    "uuid": "ad1d8a2d-26bc-43d0-a001-638b155b19cf",
-    "price": 0.0000057469,
-    "size": 136876925,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_NFT_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3700000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5439954Z",
-    "uuid": "daaf9d4d-3290-4c0d-93b9-b18be6592fd9",
-    "price": 0.0000057469,
-    "size": 145601694,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "FTX_PERP_CHZ_USD",
-    "time_exchange": "2021-09-04T12:12:09.3675490Z",
-    "time_coinapi": "2021-09-04T12:12:09.5141102Z",
-    "uuid": "6ad7a3d8-511c-4141-a550-45511adc5c59",
-    "price": 0.43068,
-    "size": 230,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3550000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4886941Z",
-    "uuid": "67a8f905-5b03-4ed4-a752-4fb725bbed3e",
-    "price": 1.653971,
-    "size": 971.7304253687241,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3550000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4835694Z",
-    "uuid": "c2cd449b-ca3b-45f2-a21f-11450d52f9fa",
-    "price": 1.653971,
-    "size": 971.7304253687241,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3550000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5280080Z",
-    "uuid": "01af5af7-c11d-43fd-9541-4cb8e7a868d9",
-    "price": 1.653971,
-    "size": 971.7304253687241,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3490000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4886177Z",
-    "uuid": "2651948b-4e8e-47ae-a0ee-b11d0db208a5",
-    "price": 1.653971,
-    "size": 435.9989,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3490000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4755151Z",
-    "uuid": "565b3628-3991-47ce-8676-71a676e8ac2e",
-    "price": 1.653971,
-    "size": 435.9989,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3490000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5186298Z",
-    "uuid": "8597f6de-8183-4eab-aa59-12187286c58c",
-    "price": 1.653971,
-    "size": 435.9989,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3480000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4885899Z",
-    "uuid": "175d80d7-4632-4f30-bd8a-fecbfbf75c2e",
-    "price": 1.653971,
-    "size": 178.9865,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3480000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4745460Z",
-    "uuid": "635d077f-325d-4ce0-a8cf-d45dfc2c0b42",
-    "price": 1.653971,
-    "size": 178.9865,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3480000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5181087Z",
-    "uuid": "b2bc67e3-ba31-4677-9fdd-494029a4de3a",
-    "price": 1.653971,
-    "size": 178.9865,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4786440Z",
-    "uuid": "9ac4c11d-8b1d-4cbd-9200-5da65c35f5eb",
-    "price": 1.653971,
-    "size": 411.28017463127594,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4786440Z",
-    "uuid": "9e075693-d94e-4c11-90dc-1e2301d4a5df",
-    "price": 1.653879,
-    "size": 0.0000253687240724,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4734388Z",
-    "uuid": "ffb5263e-660d-4140-ad9c-b437df23cc61",
-    "price": 1.653971,
-    "size": 411.28017463127594,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4734388Z",
-    "uuid": "264c0d82-7c16-40d2-842a-5a25b4806102",
-    "price": 1.653879,
-    "size": 0.0000253687240724,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5170703Z",
-    "uuid": "7a2b8d2b-2299-49b4-9b90-38538cf7775b",
-    "price": 1.653971,
-    "size": 411.28017463127594,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3470000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5170703Z",
-    "uuid": "02187ec7-bbe2-47f1-8cda-3e1a9b7c5e55",
-    "price": 1.653879,
-    "size": 0.0000253687240724,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_BTC",
-    "time_exchange": "2021-09-04T12:12:09.3460000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4786401Z",
-    "uuid": "9359129a-3e6f-4730-a1b7-56c33414b7c4",
-    "price": 0.0000330964,
-    "size": 18.8,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_BTC",
-    "time_exchange": "2021-09-04T12:12:09.3460000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4786401Z",
-    "uuid": "66c24cfe-7207-4d75-b350-808e61f75dd1",
-    "price": 0.0000330964,
-    "size": 13.78,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_BTC",
-    "time_exchange": "2021-09-04T12:12:09.3460000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5185268Z",
-    "uuid": "a8af4ada-c494-4db1-a021-0c2f161ff62a",
-    "price": 0.0000330964,
-    "size": 18.8,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_MATIC_BTC",
-    "time_exchange": "2021-09-04T12:12:09.3460000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5185268Z",
-    "uuid": "14486340-62a0-4d23-a381-8e49e699734e",
-    "price": 0.0000330964,
-    "size": 13.78,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "DRAGONEX_SPOT_CELR_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3450000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5078719Z",
-    "uuid": "18108abd-2a31-4412-8859-3ccbd4b896de",
-    "price": 0.05456,
-    "size": 5334.8,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "BIBOX_SPOT_ETH_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3410000Z",
-    "time_coinapi": "2021-09-04T12:12:09.5083215Z",
-    "uuid": "a377eadd-334c-4ecc-90a3-873bc600e7b7",
-    "price": 3903.47,
-    "size": 0.1860,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_SUSHI_ETH",
-    "time_exchange": "2021-09-04T12:12:09.3360000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4629477Z",
-    "uuid": "dfdab3a9-fe8e-4625-8533-2e110779f8fc",
-    "price": 0.003362,
-    "size": 5.4645,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "HUOBIKR_SPOT_SUSHI_ETH",
-    "time_exchange": "2021-09-04T12:12:09.3360000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4938709Z",
-    "uuid": "a10d2424-326c-4014-b4f2-fe8a5ac27a2e",
-    "price": 0.003362,
-    "size": 5.4645,
-    "taker_side": "SELL"
-  },
-  {
-    "symbol_id": "BITFINEX_SPOT_UNI_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3350000Z",
-    "time_coinapi": "2021-09-04T12:12:09.3562650Z",
-    "uuid": "9509c919-862d-4120-81de-ce5512927f6a",
-    "price": 29.141,
-    "size": 1.22099799,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HADAX_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3210000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4517439Z",
-    "uuid": "88c79b1e-6030-4d59-8da4-8574624709bb",
-    "price": 1.653879,
-    "size": 4004.4526,
-    "taker_side": "BUY"
-  },
-  {
-    "symbol_id": "HUOBIIND_SPOT_MATIC_USDT",
-    "time_exchange": "2021-09-04T12:12:09.3210000Z",
-    "time_coinapi": "2021-09-04T12:12:09.4487720Z",
-    "uuid": "8e553513-c4ee-4025-b8b4-b35c541572eb",
-    "price": 1.653879,
-    "size": 4004.4526,
+    "symbol_id": "BINANCE_SPOT_FTM_USDT",
+    "time_exchange": "2021-09-06T20:09:37.7030000Z",
+    "time_coinapi": "2021-09-06T20:09:37.8471042Z",
+    "uuid": "d4fe9d63-1b17-4f04-9f44-bb06419e8fb2",
+    "price": 1.44910000,
+    "size": 32.00000000,
     "taker_side": "BUY"
   }
 ]
