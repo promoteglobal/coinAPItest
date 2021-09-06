@@ -19,19 +19,8 @@ const secondePromisefunction = (body2) => {
   const path = './.data/allTransactions/coinAPITransactionList.json';
 
   if(fs.existsSync(path)) {
-   //if the file exists, update data *********NOTE: I did have this as _data.update, but I found that the data in the avg json file would be null sometimes.  I know the concept and how to use promises/async/await, but I need more time to trouble shoot and maybe someone who can show me the ropes since I can't see exactly whats going on, or I don't know of the tools too see it. **************
-      _data.delete('allTransactions', 'coinAPITransactionList', function(err) {
-        if(!err) {
-          console.log(200);
-          resolve(body2);
-
-        } else {
-          console.log(err);
-          console.log(500, {'Error' : 'couldnt delete the file.'});
-        }
-     });
-
-     _data.create('allTransactions', 'coinAPITransactionList', body2, function(err) {
+   //if the file exists, update data, if not create a new file
+     _data.update('allTransactions', 'coinAPITransactionList', body2, function(err) {
        if(!err) {
          console.log(200);
          resolve(body2);
@@ -61,8 +50,6 @@ const secondePromisefunction = (body2) => {
   });
 };
  
-
-
 
 const thirdePromisefunction = (body3) => {
   return new Promise ((resolve, reject) => { 
@@ -124,19 +111,9 @@ const forthPromisefunction = (stringifiedavgObj) => {
     //insert updated avgs into seperate json file. If no file, create one.
     const isolatedDataPath = './.data/isolatedData/avgPriceSize.json';
     if(fs.existsSync(isolatedDataPath)) {
-      //if the file exists, update data *********NOTE: I did have this as _data.update, but I found that the data in the avg json file would be null sometimes.  I know the concept and how to use promises/async/await, but I need more time to trouble shoot and maybe someone who can show me the ropes since I can't see exactly whats going on, or I don't know of the tools too see it. **************
-
-       _data.delete('isolatedData', 'avgPriceSize', function(err) {
-         if(!err) {
-           console.log(200);
+      //if the file exists, update data, if not create a new file
       
-         } else {
-           console.log(err);
-           console.log(500, {'Error' : 'couldnt delete the file.'});
-         }
-      });
-      
-      _data.create('isolatedData', 'avgPriceSize', stringifiedavgObj, function(err) {
+      _data.update('isolatedData', 'avgPriceSize', stringifiedavgObj, function(err) {
         if(!err) {
           console.log(200);
       
