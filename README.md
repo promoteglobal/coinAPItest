@@ -15,7 +15,7 @@ sqlite, and db browser, from (https://www.codeacademy.com) but since I rushed th
 
 ### Challenges faced:
 I had never tried to hook up to an foreign API before.  My guidience was the one example from the vanilla javascript course.  Learning to use backend tools and techniques
-was a learning experience for me.
+was a learning experience for me.  I did notice that there seemed to be an async function that took longer sometimes to generate data. I needed that data before updating a file with the data fired and I'd end up with undefined. I suspected this and for a while had a hack where I just deleted the file and created a new one (this took longer) and that seemed to help always getting the data written in the file.  I think I have fixed it by putting everything in promise functions and now I can just update the file when I know the data has been recieved. (I know this is much better then delete and create a file.)  I'm thinking there is a way to see this in action with the call stack debug in vsc, but I have yet to figure out how to use the debug for that correctly. I'm thinking code will get easier with practice with Express and other libraries/frameworks, debuging tools, and helpful vsc extentions.  I've already got a lot of helpful extentions and debug practice from working in front end.
 
 ### Things I hope for future:  
-Since I have had limited exposure,I hope I can show off my skills that I can learn in a short amount of time. Learning how to write better code comes with practice and exposure. 
+Since I have had limited exposure,I hope I can show off my skills that I can learn in a short amount of time and produce with little resources. Learning how to write better code comes with practice and exposure. 
